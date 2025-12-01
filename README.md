@@ -1,4 +1,4 @@
-# The-Devops-Bible
+# The-Devops-Bible ♾️☁️📙
 This repository intends to convey and share resources that can help you become a better Devops Engineer
 
 ## Github Repos
@@ -6,7 +6,7 @@ This repository intends to convey and share resources that can help you become a
 #### [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 #### [project-based-learning](https://github.com/practical-tutorials/project-based-learning) - A list of programming tutorials in which aspiring software developers learn how to build an application from scratch
 #### [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-#### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+#### [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Great DevOps roadmap repo
 
 
 ## Hands-on/Labs
